@@ -1,0 +1,4 @@
+[package]
+name = "toy"
+version = "0.0.1"
+authors = ["eli xian <elixian@gmail.com>"]
